@@ -1,0 +1,289 @@
+LINE_OF_BUSINESS,MONTH,FORECASTED_ATTRITION,DATE
+Banking and Financial Services,25,13,2024-10-31
+Banking and Financial Services,26,12,2024-11-30
+Banking and Financial Services,27,8,2024-12-31
+Banking and Financial Services,28,14,2025-01-31
+Banking and Financial Services,25,8,2024-10-31
+Banking and Financial Services,26,7,2024-11-30
+Banking and Financial Services,27,13,2024-12-31
+Banking and Financial Services,28,10,2025-01-31
+Banking and Financial Services,25,12,2024-10-31
+Banking and Financial Services,26,10,2024-11-30
+Banking and Financial Services,27,15,2024-12-31
+Banking and Financial Services,28,12,2025-01-31
+Banking and Financial Services,25,8,2024-10-31
+Banking and Financial Services,26,6,2024-11-30
+Banking and Financial Services,27,11,2024-12-31
+Banking and Financial Services,28,17,2025-01-31
+Banking and Financial Services,25,9,2024-10-31
+Banking and Financial Services,26,14,2024-11-30
+Banking and Financial Services,27,13,2024-12-31
+Banking and Financial Services,28,8,2025-01-31
+Banking and Financial Services,25,18,2024-10-31
+Banking and Financial Services,26,11,2024-11-30
+Banking and Financial Services,27,11,2024-12-31
+Banking and Financial Services,28,12,2025-01-31
+Banking and Financial Services,25,10,2024-10-31
+Banking and Financial Services,26,12,2024-11-30
+Banking and Financial Services,27,12,2024-12-31
+Banking and Financial Services,28,12,2025-01-31
+Banking and Financial Services,25,14,2024-10-31
+Banking and Financial Services,26,16,2024-11-30
+Banking and Financial Services,27,10,2024-12-31
+Banking and Financial Services,28,12,2025-01-31
+Banking and Financial Services,25,16,2024-10-31
+Banking and Financial Services,26,11,2024-11-30
+Banking and Financial Services,27,15,2024-12-31
+Banking and Financial Services,28,9,2025-01-31
+Energy,25,8,2024-10-31
+Energy,26,10,2024-11-30
+Energy,27,10,2024-12-31
+Energy,28,9,2025-01-31
+Energy,25,8,2024-10-31
+Energy,26,7,2024-11-30
+Energy,27,5,2024-12-31
+Energy,28,6,2025-01-31
+Energy,25,23,2024-10-31
+Energy,26,9,2024-11-30
+Energy,27,18,2024-12-31
+Energy,28,9,2025-01-31
+Energy,25,7,2024-10-31
+Energy,26,8,2024-11-30
+Energy,27,12,2024-12-31
+Energy,28,14,2025-01-31
+Energy,25,7,2024-10-31
+Energy,26,12,2024-11-30
+Energy,27,7,2024-12-31
+Energy,28,10,2025-01-31
+Energy,25,12,2024-10-31
+Energy,26,10,2024-11-30
+Energy,27,13,2024-12-31
+Energy,28,14,2025-01-31
+Energy,25,6,2024-10-31
+Energy,26,8,2024-11-30
+Energy,27,9,2024-12-31
+Energy,28,13,2025-01-31
+Energy,25,10,2024-10-31
+Energy,26,10,2024-11-30
+Energy,27,9,2024-12-31
+Energy,28,11,2025-01-31
+Energy,25,8,2024-10-31
+Energy,26,15,2024-11-30
+Energy,27,12,2024-12-31
+Energy,28,8,2025-01-31
+Healthcare and Life Sciences,25,13,2024-10-31
+Healthcare and Life Sciences,26,8,2024-11-30
+Healthcare and Life Sciences,27,10,2024-12-31
+Healthcare and Life Sciences,28,14,2025-01-31
+Healthcare and Life Sciences,25,9,2024-10-31
+Healthcare and Life Sciences,26,8,2024-11-30
+Healthcare and Life Sciences,27,11,2024-12-31
+Healthcare and Life Sciences,28,7,2025-01-31
+Healthcare and Life Sciences,25,11,2024-10-31
+Healthcare and Life Sciences,26,8,2024-11-30
+Healthcare and Life Sciences,27,8,2024-12-31
+Healthcare and Life Sciences,28,18,2025-01-31
+Healthcare and Life Sciences,25,17,2024-10-31
+Healthcare and Life Sciences,26,10,2024-11-30
+Healthcare and Life Sciences,27,12,2024-12-31
+Healthcare and Life Sciences,28,9,2025-01-31
+Healthcare and Life Sciences,25,10,2024-10-31
+Healthcare and Life Sciences,26,5,2024-11-30
+Healthcare and Life Sciences,27,13,2024-12-31
+Healthcare and Life Sciences,28,13,2025-01-31
+Healthcare and Life Sciences,25,13,2024-10-31
+Healthcare and Life Sciences,26,9,2024-11-30
+Healthcare and Life Sciences,27,8,2024-12-31
+Healthcare and Life Sciences,28,6,2025-01-31
+Healthcare and Life Sciences,25,14,2024-10-31
+Healthcare and Life Sciences,26,13,2024-11-30
+Healthcare and Life Sciences,27,14,2024-12-31
+Healthcare and Life Sciences,28,13,2025-01-31
+Healthcare and Life Sciences,25,9,2024-10-31
+Healthcare and Life Sciences,26,8,2024-11-30
+Healthcare and Life Sciences,27,9,2024-12-31
+Healthcare and Life Sciences,28,15,2025-01-31
+Healthcare and Life Sciences,25,10,2024-10-31
+Healthcare and Life Sciences,26,8,2024-11-30
+Healthcare and Life Sciences,27,10,2024-12-31
+Healthcare and Life Sciences,28,12,2025-01-31
+Insurance,25,11,2024-10-31
+Insurance,26,8,2024-11-30
+Insurance,27,14,2024-12-31
+Insurance,28,12,2025-01-31
+Insurance,25,18,2024-10-31
+Insurance,26,17,2024-11-30
+Insurance,27,16,2024-12-31
+Insurance,28,10,2025-01-31
+Insurance,25,14,2024-10-31
+Insurance,26,7,2024-11-30
+Insurance,27,11,2024-12-31
+Insurance,28,16,2025-01-31
+Insurance,25,14,2024-10-31
+Insurance,26,6,2024-11-30
+Insurance,27,7,2024-12-31
+Insurance,28,6,2025-01-31
+Insurance,25,11,2024-10-31
+Insurance,26,12,2024-11-30
+Insurance,27,8,2024-12-31
+Insurance,28,13,2025-01-31
+Insurance,25,8,2024-10-31
+Insurance,26,8,2024-11-30
+Insurance,27,17,2024-12-31
+Insurance,28,10,2025-01-31
+Insurance,25,15,2024-10-31
+Insurance,26,9,2024-11-30
+Insurance,27,10,2024-12-31
+Insurance,28,13,2025-01-31
+Insurance,25,11,2024-10-31
+Insurance,26,6,2024-11-30
+Insurance,27,3,2024-12-31
+Insurance,28,11,2025-01-31
+Insurance,25,8,2024-10-31
+Insurance,26,6,2024-11-30
+Insurance,27,5,2024-12-31
+Insurance,28,7,2025-01-31
+Manufacturing,25,12,2024-10-31
+Manufacturing,26,6,2024-11-30
+Manufacturing,27,10,2024-12-31
+Manufacturing,28,13,2025-01-31
+Manufacturing,25,10,2024-10-31
+Manufacturing,26,10,2024-11-30
+Manufacturing,27,12,2024-12-31
+Manufacturing,28,10,2025-01-31
+Manufacturing,25,8,2024-10-31
+Manufacturing,26,13,2024-11-30
+Manufacturing,27,6,2024-12-31
+Manufacturing,28,12,2025-01-31
+Manufacturing,25,7,2024-10-31
+Manufacturing,26,10,2024-11-30
+Manufacturing,27,9,2024-12-31
+Manufacturing,28,10,2025-01-31
+Manufacturing,25,10,2024-10-31
+Manufacturing,26,11,2024-11-30
+Manufacturing,27,15,2024-12-31
+Manufacturing,28,12,2025-01-31
+Manufacturing,25,6,2024-10-31
+Manufacturing,26,14,2024-11-30
+Manufacturing,27,5,2024-12-31
+Manufacturing,28,7,2025-01-31
+Manufacturing,25,6,2024-10-31
+Manufacturing,26,8,2024-11-30
+Manufacturing,27,10,2024-12-31
+Manufacturing,28,15,2025-01-31
+Manufacturing,25,6,2024-10-31
+Manufacturing,26,12,2024-11-30
+Manufacturing,27,11,2024-12-31
+Manufacturing,28,7,2025-01-31
+Manufacturing,25,16,2024-10-31
+Manufacturing,26,16,2024-11-30
+Manufacturing,27,15,2024-12-31
+Manufacturing,28,14,2025-01-31
+Media and Entertainment,25,12,2024-10-31
+Media and Entertainment,26,7,2024-11-30
+Media and Entertainment,27,5,2024-12-31
+Media and Entertainment,28,14,2025-01-31
+Media and Entertainment,25,9,2024-10-31
+Media and Entertainment,26,10,2024-11-30
+Media and Entertainment,27,10,2024-12-31
+Media and Entertainment,28,7,2025-01-31
+Media and Entertainment,25,8,2024-10-31
+Media and Entertainment,26,11,2024-11-30
+Media and Entertainment,27,8,2024-12-31
+Media and Entertainment,28,8,2025-01-31
+Media and Entertainment,25,11,2024-10-31
+Media and Entertainment,26,19,2024-11-30
+Media and Entertainment,27,14,2024-12-31
+Media and Entertainment,28,19,2025-01-31
+Media and Entertainment,25,8,2024-10-31
+Media and Entertainment,26,14,2024-11-30
+Media and Entertainment,27,18,2024-12-31
+Media and Entertainment,28,14,2025-01-31
+Media and Entertainment,25,8,2024-10-31
+Media and Entertainment,26,8,2024-11-30
+Media and Entertainment,27,12,2024-12-31
+Media and Entertainment,28,4,2025-01-31
+Media and Entertainment,25,8,2024-10-31
+Media and Entertainment,26,11,2024-11-30
+Media and Entertainment,27,14,2024-12-31
+Media and Entertainment,28,13,2025-01-31
+Media and Entertainment,25,9,2024-10-31
+Media and Entertainment,26,5,2024-11-30
+Media and Entertainment,27,10,2024-12-31
+Media and Entertainment,28,6,2025-01-31
+Media and Entertainment,25,11,2024-10-31
+Media and Entertainment,26,6,2024-11-30
+Media and Entertainment,27,9,2024-12-31
+Media and Entertainment,28,17,2025-01-31
+Retail and Consumer Goods,25,4,2024-10-31
+Retail and Consumer Goods,26,9,2024-11-30
+Retail and Consumer Goods,27,9,2024-12-31
+Retail and Consumer Goods,28,9,2025-01-31
+Retail and Consumer Goods,25,15,2024-10-31
+Retail and Consumer Goods,26,9,2024-11-30
+Retail and Consumer Goods,27,11,2024-12-31
+Retail and Consumer Goods,28,9,2025-01-31
+Retail and Consumer Goods,25,11,2024-10-31
+Retail and Consumer Goods,26,10,2024-11-30
+Retail and Consumer Goods,27,14,2024-12-31
+Retail and Consumer Goods,28,8,2025-01-31
+Retail and Consumer Goods,25,8,2024-10-31
+Retail and Consumer Goods,26,8,2024-11-30
+Retail and Consumer Goods,27,12,2024-12-31
+Retail and Consumer Goods,28,11,2025-01-31
+Retail and Consumer Goods,25,11,2024-10-31
+Retail and Consumer Goods,26,9,2024-11-30
+Retail and Consumer Goods,27,10,2024-12-31
+Retail and Consumer Goods,28,12,2025-01-31
+Retail and Consumer Goods,25,12,2024-10-31
+Retail and Consumer Goods,26,9,2024-11-30
+Retail and Consumer Goods,27,14,2024-12-31
+Retail and Consumer Goods,28,13,2025-01-31
+Retail and Consumer Goods,25,12,2024-10-31
+Retail and Consumer Goods,26,9,2024-11-30
+Retail and Consumer Goods,27,14,2024-12-31
+Retail and Consumer Goods,28,7,2025-01-31
+Retail and Consumer Goods,25,10,2024-10-31
+Retail and Consumer Goods,26,13,2024-11-30
+Retail and Consumer Goods,27,7,2024-12-31
+Retail and Consumer Goods,28,12,2025-01-31
+Retail and Consumer Goods,25,14,2024-10-31
+Retail and Consumer Goods,26,12,2024-11-30
+Retail and Consumer Goods,27,8,2024-12-31
+Retail and Consumer Goods,28,8,2025-01-31
+Travel Transportation and Hospitality (TTH),25,6,2024-10-31
+Travel Transportation and Hospitality (TTH),26,10,2024-11-30
+Travel Transportation and Hospitality (TTH),27,7,2024-12-31
+Travel Transportation and Hospitality (TTH),28,5,2025-01-31
+Travel Transportation and Hospitality (TTH),25,9,2024-10-31
+Travel Transportation and Hospitality (TTH),26,11,2024-11-30
+Travel Transportation and Hospitality (TTH),27,6,2024-12-31
+Travel Transportation and Hospitality (TTH),28,12,2025-01-31
+Travel Transportation and Hospitality (TTH),25,9,2024-10-31
+Travel Transportation and Hospitality (TTH),26,6,2024-11-30
+Travel Transportation and Hospitality (TTH),27,13,2024-12-31
+Travel Transportation and Hospitality (TTH),28,9,2025-01-31
+Travel Transportation and Hospitality (TTH),25,10,2024-10-31
+Travel Transportation and Hospitality (TTH),26,15,2024-11-30
+Travel Transportation and Hospitality (TTH),27,10,2024-12-31
+Travel Transportation and Hospitality (TTH),28,7,2025-01-31
+Travel Transportation and Hospitality (TTH),25,8,2024-10-31
+Travel Transportation and Hospitality (TTH),26,19,2024-11-30
+Travel Transportation and Hospitality (TTH),27,14,2024-12-31
+Travel Transportation and Hospitality (TTH),28,10,2025-01-31
+Travel Transportation and Hospitality (TTH),25,16,2024-10-31
+Travel Transportation and Hospitality (TTH),26,6,2024-11-30
+Travel Transportation and Hospitality (TTH),27,9,2024-12-31
+Travel Transportation and Hospitality (TTH),28,8,2025-01-31
+Travel Transportation and Hospitality (TTH),25,7,2024-10-31
+Travel Transportation and Hospitality (TTH),26,11,2024-11-30
+Travel Transportation and Hospitality (TTH),27,11,2024-12-31
+Travel Transportation and Hospitality (TTH),28,16,2025-01-31
+Travel Transportation and Hospitality (TTH),25,5,2024-10-31
+Travel Transportation and Hospitality (TTH),26,7,2024-11-30
+Travel Transportation and Hospitality (TTH),27,12,2024-12-31
+Travel Transportation and Hospitality (TTH),28,4,2025-01-31
+Travel Transportation and Hospitality (TTH),25,6,2024-10-31
+Travel Transportation and Hospitality (TTH),26,13,2024-11-30
+Travel Transportation and Hospitality (TTH),27,11,2024-12-31
+Travel Transportation and Hospitality (TTH),28,8,2025-01-31
