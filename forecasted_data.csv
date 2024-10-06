@@ -1,0 +1,289 @@
+LINE_OF_BUSINESS,DELIVERY_UNIT,PRACTICE_UNIT,MONTH,FORECASTED_ATTRITION,DATE
+Banking and Financial Services,C,C,25,13,2024-11-30
+Banking and Financial Services,y,o,26,12,2024-12-31
+Banking and Financial Services,b,m,27,8,2025-01-31
+Banking and Financial Services,e,p,28,14,2025-02-28
+Banking and Financial Services,C,R,25,8,2024-11-30
+Banking and Financial Services,y,i,26,7,2024-12-31
+Banking and Financial Services,b,s,27,13,2025-01-31
+Banking and Financial Services,e,k,28,10,2025-02-28
+Banking and Financial Services,C,S,25,12,2024-11-30
+Banking and Financial Services,y,e,26,10,2024-12-31
+Banking and Financial Services,b,c,27,15,2025-01-31
+Banking and Financial Services,e,u,28,12,2025-02-28
+Banking and Financial Services,D,A,25,8,2024-11-30
+Banking and Financial Services,i,r,26,6,2024-12-31
+Banking and Financial Services,g,t,27,11,2025-01-31
+Banking and Financial Services,i,i,28,17,2025-02-28
+Banking and Financial Services,D,D,25,9,2024-11-30
+Banking and Financial Services,i,a,26,14,2024-12-31
+Banking and Financial Services,g,t,27,13,2025-01-31
+Banking and Financial Services,i,a,28,8,2025-02-28
+Banking and Financial Services,D,D,25,18,2024-11-30
+Banking and Financial Services,i,i,26,11,2024-12-31
+Banking and Financial Services,g,g,27,11,2025-01-31
+Banking and Financial Services,i,i,28,12,2025-02-28
+Banking and Financial Services,E,C,25,10,2024-11-30
+Banking and Financial Services,n,R,26,12,2024-12-31
+Banking and Financial Services,t,M,27,12,2025-01-31
+Banking and Financial Services,e, ,28,12,2025-02-28
+Banking and Financial Services,E,E,25,14,2024-11-30
+Banking and Financial Services,n,R,26,16,2024-12-31
+Banking and Financial Services,t,P,27,10,2025-01-31
+Banking and Financial Services,e, ,28,12,2025-02-28
+Banking and Financial Services,E,E,25,16,2024-11-30
+Banking and Financial Services,n,n,26,11,2024-12-31
+Banking and Financial Services,t,t,27,15,2025-01-31
+Banking and Financial Services,e,e,28,9,2025-02-28
+Energy,C,C,25,8,2024-11-30
+Energy,l,l,26,10,2024-12-31
+Energy,o,o,27,10,2025-01-31
+Energy,u,u,28,9,2025-02-28
+Energy,C,C,25,8,2024-11-30
+Energy,l,l,26,7,2024-12-31
+Energy,o,o,27,5,2025-01-31
+Energy,u,u,28,6,2025-02-28
+Energy,C,I,25,23,2024-11-30
+Energy,l,n,26,9,2024-12-31
+Energy,o,f,27,18,2025-01-31
+Energy,u,r,28,9,2025-02-28
+Energy,C,B,25,7,2024-11-30
+Energy,o,u,26,8,2024-12-31
+Energy,n,s,27,12,2025-01-31
+Energy,s,i,28,14,2025-02-28
+Energy,C,S,25,7,2024-11-30
+Energy,o,t,26,12,2024-12-31
+Energy,n,r,27,7,2025-01-31
+Energy,s,a,28,10,2025-02-28
+Energy,C,T,25,12,2024-11-30
+Energy,o,e,26,10,2024-12-31
+Energy,n,c,27,13,2025-01-31
+Energy,s,h,28,14,2025-02-28
+Energy,E,A,25,6,2024-11-30
+Energy,n,p,26,8,2024-12-31
+Energy,t,p,27,9,2025-01-31
+Energy,e,l,28,13,2025-02-28
+Energy,E,I,25,10,2024-11-30
+Energy,n,T,26,10,2024-12-31
+Energy,t, ,27,9,2025-01-31
+Energy,e,I,28,11,2025-02-28
+Energy,E,I,25,8,2024-11-30
+Energy,n,T,26,15,2024-12-31
+Energy,t, ,27,12,2025-01-31
+Energy,e,M,28,8,2025-02-28
+Healthcare and Life Sciences,A,Q,25,13,2024-11-30
+Healthcare and Life Sciences,s,u,26,8,2024-12-31
+Healthcare and Life Sciences,s,a,27,10,2025-01-31
+Healthcare and Life Sciences,u,l,28,14,2025-02-28
+Healthcare and Life Sciences,A,R,25,9,2024-11-30
+Healthcare and Life Sciences,s,e,26,8,2024-12-31
+Healthcare and Life Sciences,s,l,27,11,2025-01-31
+Healthcare and Life Sciences,u,i,28,7,2025-02-28
+Healthcare and Life Sciences,A,T,25,11,2024-11-30
+Healthcare and Life Sciences,s,e,26,8,2024-12-31
+Healthcare and Life Sciences,s,s,27,8,2025-01-31
+Healthcare and Life Sciences,u,t,28,18,2025-02-28
+Healthcare and Life Sciences,C,C,25,17,2024-11-30
+Healthcare and Life Sciences,y,o,26,10,2024-12-31
+Healthcare and Life Sciences,b,m,27,12,2025-01-31
+Healthcare and Life Sciences,e,p,28,9,2025-02-28
+Healthcare and Life Sciences,C,R,25,10,2024-11-30
+Healthcare and Life Sciences,y,i,26,5,2024-12-31
+Healthcare and Life Sciences,b,s,27,13,2025-01-31
+Healthcare and Life Sciences,e,k,28,13,2025-02-28
+Healthcare and Life Sciences,C,S,25,13,2024-11-30
+Healthcare and Life Sciences,y,e,26,9,2024-12-31
+Healthcare and Life Sciences,b,c,27,8,2025-01-31
+Healthcare and Life Sciences,e,u,28,6,2025-02-28
+Healthcare and Life Sciences,D,A,25,14,2024-11-30
+Healthcare and Life Sciences,i,r,26,13,2024-12-31
+Healthcare and Life Sciences,g,t,27,14,2025-01-31
+Healthcare and Life Sciences,i,i,28,13,2025-02-28
+Healthcare and Life Sciences,D,D,25,9,2024-11-30
+Healthcare and Life Sciences,i,a,26,8,2024-12-31
+Healthcare and Life Sciences,g,t,27,9,2025-01-31
+Healthcare and Life Sciences,i,a,28,15,2025-02-28
+Healthcare and Life Sciences,D,D,25,10,2024-11-30
+Healthcare and Life Sciences,i,i,26,8,2024-12-31
+Healthcare and Life Sciences,g,g,27,10,2025-01-31
+Healthcare and Life Sciences,i,i,28,12,2025-02-28
+Insurance,A,Q,25,11,2024-11-30
+Insurance,s,u,26,8,2024-12-31
+Insurance,s,a,27,14,2025-01-31
+Insurance,u,l,28,12,2025-02-28
+Insurance,A,R,25,18,2024-11-30
+Insurance,s,e,26,17,2024-12-31
+Insurance,s,l,27,16,2025-01-31
+Insurance,u,i,28,10,2025-02-28
+Insurance,A,T,25,14,2024-11-30
+Insurance,s,e,26,7,2024-12-31
+Insurance,s,s,27,11,2025-01-31
+Insurance,u,t,28,16,2025-02-28
+Insurance,C,B,25,14,2024-11-30
+Insurance,o,u,26,6,2024-12-31
+Insurance,n,s,27,7,2025-01-31
+Insurance,s,i,28,6,2025-02-28
+Insurance,C,S,25,11,2024-11-30
+Insurance,o,t,26,12,2024-12-31
+Insurance,n,r,27,8,2025-01-31
+Insurance,s,a,28,13,2025-02-28
+Insurance,C,T,25,8,2024-11-30
+Insurance,o,e,26,8,2024-12-31
+Insurance,n,c,27,17,2025-01-31
+Insurance,s,h,28,10,2025-02-28
+Insurance,D,A,25,15,2024-11-30
+Insurance,i,r,26,9,2024-12-31
+Insurance,g,t,27,10,2025-01-31
+Insurance,i,i,28,13,2025-02-28
+Insurance,D,D,25,11,2024-11-30
+Insurance,i,a,26,6,2024-12-31
+Insurance,g,t,27,3,2025-01-31
+Insurance,i,a,28,11,2025-02-28
+Insurance,D,D,25,8,2024-11-30
+Insurance,i,i,26,6,2024-12-31
+Insurance,g,g,27,5,2025-01-31
+Insurance,i,i,28,7,2025-02-28
+Manufacturing,C,C,25,12,2024-11-30
+Manufacturing,l,l,26,6,2024-12-31
+Manufacturing,o,o,27,10,2025-01-31
+Manufacturing,u,u,28,13,2025-02-28
+Manufacturing,C,C,25,10,2024-11-30
+Manufacturing,l,l,26,10,2024-12-31
+Manufacturing,o,o,27,12,2025-01-31
+Manufacturing,u,u,28,10,2025-02-28
+Manufacturing,C,I,25,8,2024-11-30
+Manufacturing,l,n,26,13,2024-12-31
+Manufacturing,o,f,27,6,2025-01-31
+Manufacturing,u,r,28,12,2025-02-28
+Manufacturing,D,A,25,7,2024-11-30
+Manufacturing,i,r,26,10,2024-12-31
+Manufacturing,g,t,27,9,2025-01-31
+Manufacturing,i,i,28,10,2025-02-28
+Manufacturing,D,D,25,10,2024-11-30
+Manufacturing,i,a,26,11,2024-12-31
+Manufacturing,g,t,27,15,2025-01-31
+Manufacturing,i,a,28,12,2025-02-28
+Manufacturing,D,D,25,6,2024-11-30
+Manufacturing,i,i,26,14,2024-12-31
+Manufacturing,g,g,27,5,2025-01-31
+Manufacturing,i,i,28,7,2025-02-28
+Manufacturing,E,A,25,6,2024-11-30
+Manufacturing,n,p,26,8,2024-12-31
+Manufacturing,t,p,27,10,2025-01-31
+Manufacturing,e,l,28,15,2025-02-28
+Manufacturing,E,I,25,6,2024-11-30
+Manufacturing,n,T,26,12,2024-12-31
+Manufacturing,t, ,27,11,2025-01-31
+Manufacturing,e,I,28,7,2025-02-28
+Manufacturing,E,I,25,16,2024-11-30
+Manufacturing,n,T,26,16,2024-12-31
+Manufacturing,t, ,27,15,2025-01-31
+Manufacturing,e,M,28,14,2025-02-28
+Media and Entertainment,A,Q,25,12,2024-11-30
+Media and Entertainment,s,u,26,7,2024-12-31
+Media and Entertainment,s,a,27,5,2025-01-31
+Media and Entertainment,u,l,28,14,2025-02-28
+Media and Entertainment,A,R,25,9,2024-11-30
+Media and Entertainment,s,e,26,10,2024-12-31
+Media and Entertainment,s,l,27,10,2025-01-31
+Media and Entertainment,u,i,28,7,2025-02-28
+Media and Entertainment,A,T,25,8,2024-11-30
+Media and Entertainment,s,e,26,11,2024-12-31
+Media and Entertainment,s,s,27,8,2025-01-31
+Media and Entertainment,u,t,28,8,2025-02-28
+Media and Entertainment,C,B,25,11,2024-11-30
+Media and Entertainment,o,u,26,19,2024-12-31
+Media and Entertainment,n,s,27,14,2025-01-31
+Media and Entertainment,s,i,28,19,2025-02-28
+Media and Entertainment,C,S,25,8,2024-11-30
+Media and Entertainment,o,t,26,14,2024-12-31
+Media and Entertainment,n,r,27,18,2025-01-31
+Media and Entertainment,s,a,28,14,2025-02-28
+Media and Entertainment,C,T,25,8,2024-11-30
+Media and Entertainment,o,e,26,8,2024-12-31
+Media and Entertainment,n,c,27,12,2025-01-31
+Media and Entertainment,s,h,28,4,2025-02-28
+Media and Entertainment,D,A,25,8,2024-11-30
+Media and Entertainment,i,r,26,11,2024-12-31
+Media and Entertainment,g,t,27,14,2025-01-31
+Media and Entertainment,i,i,28,13,2025-02-28
+Media and Entertainment,D,D,25,9,2024-11-30
+Media and Entertainment,i,a,26,5,2024-12-31
+Media and Entertainment,g,t,27,10,2025-01-31
+Media and Entertainment,i,a,28,6,2025-02-28
+Media and Entertainment,D,D,25,11,2024-11-30
+Media and Entertainment,i,i,26,6,2024-12-31
+Media and Entertainment,g,g,27,9,2025-01-31
+Media and Entertainment,i,i,28,17,2025-02-28
+Retail and Consumer Goods,C,B,25,4,2024-11-30
+Retail and Consumer Goods,o,u,26,9,2024-12-31
+Retail and Consumer Goods,n,s,27,9,2025-01-31
+Retail and Consumer Goods,s,i,28,9,2025-02-28
+Retail and Consumer Goods,C,S,25,15,2024-11-30
+Retail and Consumer Goods,o,t,26,9,2024-12-31
+Retail and Consumer Goods,n,r,27,11,2025-01-31
+Retail and Consumer Goods,s,a,28,9,2025-02-28
+Retail and Consumer Goods,C,T,25,11,2024-11-30
+Retail and Consumer Goods,o,e,26,10,2024-12-31
+Retail and Consumer Goods,n,c,27,14,2025-01-31
+Retail and Consumer Goods,s,h,28,8,2025-02-28
+Retail and Consumer Goods,D,A,25,8,2024-11-30
+Retail and Consumer Goods,i,r,26,8,2024-12-31
+Retail and Consumer Goods,g,t,27,12,2025-01-31
+Retail and Consumer Goods,i,i,28,11,2025-02-28
+Retail and Consumer Goods,D,D,25,11,2024-11-30
+Retail and Consumer Goods,i,a,26,9,2024-12-31
+Retail and Consumer Goods,g,t,27,10,2025-01-31
+Retail and Consumer Goods,i,a,28,12,2025-02-28
+Retail and Consumer Goods,D,D,25,12,2024-11-30
+Retail and Consumer Goods,i,i,26,9,2024-12-31
+Retail and Consumer Goods,g,g,27,14,2025-01-31
+Retail and Consumer Goods,i,i,28,13,2025-02-28
+Retail and Consumer Goods,E,C,25,12,2024-11-30
+Retail and Consumer Goods,n,R,26,9,2024-12-31
+Retail and Consumer Goods,t,M,27,14,2025-01-31
+Retail and Consumer Goods,e, ,28,7,2025-02-28
+Retail and Consumer Goods,E,E,25,10,2024-11-30
+Retail and Consumer Goods,n,R,26,13,2024-12-31
+Retail and Consumer Goods,t,P,27,7,2025-01-31
+Retail and Consumer Goods,e, ,28,12,2025-02-28
+Retail and Consumer Goods,E,E,25,14,2024-11-30
+Retail and Consumer Goods,n,n,26,12,2024-12-31
+Retail and Consumer Goods,t,t,27,8,2025-01-31
+Retail and Consumer Goods,e,e,28,8,2025-02-28
+Travel Transportation and Hospitality (TTH),C,C,25,6,2024-11-30
+Travel Transportation and Hospitality (TTH),l,l,26,10,2024-12-31
+Travel Transportation and Hospitality (TTH),o,o,27,7,2025-01-31
+Travel Transportation and Hospitality (TTH),u,u,28,5,2025-02-28
+Travel Transportation and Hospitality (TTH),C,C,25,9,2024-11-30
+Travel Transportation and Hospitality (TTH),l,l,26,11,2024-12-31
+Travel Transportation and Hospitality (TTH),o,o,27,6,2025-01-31
+Travel Transportation and Hospitality (TTH),u,u,28,12,2025-02-28
+Travel Transportation and Hospitality (TTH),C,I,25,9,2024-11-30
+Travel Transportation and Hospitality (TTH),l,n,26,6,2024-12-31
+Travel Transportation and Hospitality (TTH),o,f,27,13,2025-01-31
+Travel Transportation and Hospitality (TTH),u,r,28,9,2025-02-28
+Travel Transportation and Hospitality (TTH),D,A,25,10,2024-11-30
+Travel Transportation and Hospitality (TTH),i,r,26,15,2024-12-31
+Travel Transportation and Hospitality (TTH),g,t,27,10,2025-01-31
+Travel Transportation and Hospitality (TTH),i,i,28,7,2025-02-28
+Travel Transportation and Hospitality (TTH),D,D,25,8,2024-11-30
+Travel Transportation and Hospitality (TTH),i,a,26,19,2024-12-31
+Travel Transportation and Hospitality (TTH),g,t,27,14,2025-01-31
+Travel Transportation and Hospitality (TTH),i,a,28,10,2025-02-28
+Travel Transportation and Hospitality (TTH),D,D,25,16,2024-11-30
+Travel Transportation and Hospitality (TTH),i,i,26,6,2024-12-31
+Travel Transportation and Hospitality (TTH),g,g,27,9,2025-01-31
+Travel Transportation and Hospitality (TTH),i,i,28,8,2025-02-28
+Travel Transportation and Hospitality (TTH),E,C,25,7,2024-11-30
+Travel Transportation and Hospitality (TTH),n,R,26,11,2024-12-31
+Travel Transportation and Hospitality (TTH),t,M,27,11,2025-01-31
+Travel Transportation and Hospitality (TTH),e, ,28,16,2025-02-28
+Travel Transportation and Hospitality (TTH),E,E,25,5,2024-11-30
+Travel Transportation and Hospitality (TTH),n,R,26,7,2024-12-31
+Travel Transportation and Hospitality (TTH),t,P,27,12,2025-01-31
+Travel Transportation and Hospitality (TTH),e, ,28,4,2025-02-28
+Travel Transportation and Hospitality (TTH),E,E,25,6,2024-11-30
+Travel Transportation and Hospitality (TTH),n,n,26,13,2024-12-31
+Travel Transportation and Hospitality (TTH),t,t,27,11,2025-01-31
+Travel Transportation and Hospitality (TTH),e,e,28,8,2025-02-28
